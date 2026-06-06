@@ -18,7 +18,5 @@ Languages and Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
   <!-- Machine Learning (TensorFlow icon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <!-- AI / LLMs (OpenAI icon) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40"/>
 </p>
 
