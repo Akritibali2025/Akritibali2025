@@ -56,7 +56,7 @@ Languages & Tools
 Featured Projects
 
 🔹 Group Project — AAU  
-A modular Reinforcement Learning frameworks for training, visualizing, and comparing pursuit–evasion strategies using different RL methodologies Q‑Learning, Multi‑Agent RL, Monte Carlo, and Actor‑Critic methods.
+A modular Reinforcement Learning frameworks for training, visualizing, and comparing pursuit–evasion strategies using different RL methodologies Q‑Learning, Multi‑Agent RL, Monte Carlo, and Actor‑Critic methods. 
 Repo: https://github.com/AAU-CS-IT-08-02/group_project
 
 🔹 **Projectwork Bio – AAU**  
