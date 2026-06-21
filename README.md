@@ -29,7 +29,7 @@ Languages & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
   <!-- Cloud -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/> <!-- AWS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/vercel.svg" width="40"/>
 
@@ -39,7 +39,7 @@ Languages & Tools
 
   <!-- 3D / Game Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="40"/> <!-- Unity -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="40"/>
 
   <!-- Other Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -50,23 +50,39 @@ Languages & Tools
 
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" width="40"/>
+
 </p>
 
 Featured Projects
 
+🔹 Group Project — AAU  
+Collaborative university project focusing on software engineering principles.  
+**Repo:** https://github.com/AAU-CS-IT-08-02/group_project
+
+🔹 Projectwork Bio  
+A biology‑focused software project built as part of coursework.  
+**Repo:** https://github.com/ProjectworkBio/Projectwork_Bio
+
+🔹 MeltBites — E‑commerce Webpage  
+A complete e‑commerce webpage with UI, product pages, and cart logic.  
+**Repo:** https://github.com/Akritibali2025/meltbites---ecommerce-webpage
+
+🔹 Ocutune Application  
+A web‑based application built with modern frontend tools.  
+**Repo:** https://github.com/Akritibali2025/ocutune-application
+
+🔹 Ocutune Android App  
+Mobile version of the Ocutune application.  
+**Repo:** https://github.com/Akritibali2025/OcutuneAndroidApp
+
 🔹 Climate‑Right  
 Real‑time climate dashboard built with TypeScript.  
-**Repo:** https://github.com/Akritibali2025/Climate-Right
+**Repo:** https://github.com/Akritibali2025/Climate-Right-
 
-🔹 Lemonade Stand Webshop  
-A functional webshop built with JavaScript and JSON.  
-**Repo:** https://github.com/Akritibali2025/Lemonade-Stand-json
-
-GitHub Stats  
+ GitHub Stats  
 ![Akriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akritibali2025&show_icons=true&theme=tokyonight)
 
-
-Currently Learning  
+ Currently Learning  
 - Python for backend + AI  
 - C# and .NET  
 - Cloud development (Azure)
