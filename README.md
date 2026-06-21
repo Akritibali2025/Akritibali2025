@@ -1,7 +1,13 @@
-Hi, I'm Akriti
+I'm Akriti
 
-I'm a Master's student in Software Engineering at Aalborg University, passionate about building intelligent systems, interactive applications, and clean, user‑focused software.  
-I enjoy working across the full stack — from backend logic to frontend experiences — and I'm currently expanding into Python and AI‑powered development.
+I’m an MSc student in Software Engineering with a focus on building intelligent, user‑centered systems and exploring how humans and technology interact.  
+I enjoy working across the full stack — from backend logic to frontend experiences — and I’m currently expanding into Python, Haskell, and AI‑powered development.
+
+Currently Learning
+- Python — backend development + AI fundamentals  
+- Haskell — functional programming concepts  
+- C# and .NET  
+- Cloud development (Azure)
 
 Languages & Tools
 
@@ -59,39 +65,29 @@ Featured Projects
 A modular Reinforcement Learning framework for training, visualizing, and comparing pursuit–evasion strategies using Q‑Learning, Multi‑Agent RL, Monte Carlo, and Actor‑Critic methods.  
 **Repo:** https://github.com/AAU-CS-IT-08-02/group_project  
 
-
 🔹 **Projectwork Bio – AAU**  
-This project, conducted in collaboration with Biogenity, focuses on developing a proof‑of‑concept system for Data Extraction and Summarisation using Large Language Models (LLMs).  
+A proof‑of‑concept system for Data Extraction and Summarisation using Large Language Models (LLMs), developed in collaboration with Biogenity.  
 **Repo:** https://github.com/ProjectworkBio/Projectwork_Bio  
-
 
 🔹 **MeltBites — E‑commerce Webpage**  
 A complete e‑commerce webpage with UI, product pages, and cart logic.  
 **Repo:** https://github.com/Akritibali2025/meltbites---ecommerce-webpage  
 
-
 🔹 **Ocutune Application**  
 A web‑based application built with modern frontend tools.  
 **Repo:** https://github.com/Akritibali2025/ocutune-application  
-
 
 🔹 **Ocutune Android App**  
 Mobile version of the Ocutune application.  
 **Repo:** https://github.com/Akritibali2025/OcutuneAndroidApp  
 
-
 🔹 **Climate‑Right**  
-Real‑time climate dashboard built with TypeScript.  
-**Repo:** https://github.com/Akritibali2025/Climate-Right-
+A real‑time climate dashboard built with TypeScript.  
+**Repo:** https://github.com/Akritibali2025/Climate-Right-  
 
-
- GitHub Stats  
+GitHub Stats  
 ![Akriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akritibali2025&show_icons=true&theme=tokyonight)
 
- Currently Learning  
-- Python for backend + AI  
-- C# and .NET  
-- Cloud development (Azure)
-
- Connect  
-Email: baliakriti6@gmail.com  
+Connect  
+Email: baliakriti6@gmail.com
+Linkedin : https://www.linkedin.com/in/akriti-bali-293283141/
