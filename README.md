@@ -6,7 +6,6 @@ I enjoy working across the full stack — from backend logic to frontend experie
 Currently Learning
 - Python — backend development + AI fundamentals  
 - Haskell — functional programming concepts  
-- C# and .NET  
 - Cloud development (Azure)
 
 Languages & Tools
