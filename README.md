@@ -59,8 +59,7 @@ Featured Projects
 A modular Reinforcement Learning frameworks for training, visualizing, and comparing pursuit–evasion strategies using different RL methodologies Q‑Learning, Multi‑Agent RL, Monte Carlo, and Actor‑Critic methods.
 Repo: https://github.com/AAU-CS-IT-08-02/group_project
 
-🔹 Projectwork Bio - AAU
-
+🔹 Projectwork Bio - AAU 
 This project is conducted in collaboration with Bioenity, focuses on developing a proof of concept for Data Extraction and Summarisation using Large Language Models (LLMs)
 Repo: https://github.com/ProjectworkBio/Projectwork_Bio
 
