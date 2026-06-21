@@ -88,4 +88,4 @@ Real‑time climate dashboard built with TypeScript.
 - Cloud development (Azure)
 
  Connect  
-**Email:** akritibali2025@gmail.com  
+Email: baliakriti6@gmail.com  
