@@ -56,28 +56,28 @@ Languages & Tools
 Featured Projects
 
 🔹 Group Project — AAU  
-Collaborative university project focusing on software engineering principles.  
-**Repo:** https://github.com/AAU-CS-IT-08-02/group_project
+A modular Reinforcement Learning frameworks for training, visualizing, and comparing pursuit–evasion strategies using different RL methodologies Q‑Learning, Multi‑Agent RL, Monte Carlo, and Actor‑Critic methods.
+Repo: https://github.com/AAU-CS-IT-08-02/group_project
 
-🔹 Projectwork Bio  
-A biology‑focused software project built as part of coursework.  
-**Repo:** https://github.com/ProjectworkBio/Projectwork_Bio
+🔹 Projectwork Bio - AAU
+This project is conducted in collaboration with Bioenity, focuses on developing a proof of concept for Data Extraction and Summarisation using Large Language Models (LLMs)
+Repo: https://github.com/ProjectworkBio/Projectwork_Bio
 
 🔹 MeltBites — E‑commerce Webpage  
 A complete e‑commerce webpage with UI, product pages, and cart logic.  
-**Repo:** https://github.com/Akritibali2025/meltbites---ecommerce-webpage
+Repo: https://github.com/Akritibali2025/meltbites---ecommerce-webpage
 
 🔹 Ocutune Application  
 A web‑based application built with modern frontend tools.  
-**Repo:** https://github.com/Akritibali2025/ocutune-application
+Repo: https://github.com/Akritibali2025/ocutune-application
 
 🔹 Ocutune Android App  
 Mobile version of the Ocutune application.  
-**Repo:** https://github.com/Akritibali2025/OcutuneAndroidApp
+Repo: https://github.com/Akritibali2025/OcutuneAndroidApp
 
 🔹 Climate‑Right  
 Real‑time climate dashboard built with TypeScript.  
-**Repo:** https://github.com/Akritibali2025/Climate-Right-
+Repo: https://github.com/Akritibali2025/Climate-Right-
 
  GitHub Stats  
 ![Akriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akritibali2025&show_icons=true&theme=tokyonight)
