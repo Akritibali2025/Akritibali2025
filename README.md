@@ -60,6 +60,7 @@ A modular Reinforcement Learning frameworks for training, visualizing, and compa
 Repo: https://github.com/AAU-CS-IT-08-02/group_project
 
 🔹 Projectwork Bio - AAU
+
 This project is conducted in collaboration with Bioenity, focuses on developing a proof of concept for Data Extraction and Summarisation using Large Language Models (LLMs)
 Repo: https://github.com/ProjectworkBio/Projectwork_Bio
 
